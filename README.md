@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+This is a fork of the team repository of a Hackathon [JHU DaSH](https://datascience.nih.gov/bd2k/events/JHU_DaSH) I partook in Spring 2015. The subject was linking of Alzheimer's related phenotypes with genotypes. 
+
+-----------------------------
+
 # Welcome to the JHU DaSH!
 
 ## tl;dr
@@ -15,23 +18,6 @@
 * tl;dr plan: M - Getting to know you, gearing up, T - Hacking/working, W - Finishing up/presentations. 
 * Brought to you by: JHU Data Science Lab, JHU Biostatistics, NIH BD2K
 * This website: http://bitly.com/jhudashboard
-
-
-## Tutorials
-
-- [Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Command Line](http://seankross.neocities.org/cli.html)
-- [Git & GitHub](http://seankross.neocities.org/git.html)
-- [R (swirl)](http://swirlstats.com)
-- [Webscraping in R](http://cpsievert.github.io/slides/web-scraping/20150612/#1)
-- [Shiny tutorial](http://shiny.rstudio.com/tutorial/)
-- [Getting help spreadsheet](https://docs.google.com/spreadsheets/d/1F9jbKigSpTZGwseZ4ySf3VPmRWPWX_U2r0ohcF-eteE/edit?usp=sharing)
-
-## Tools
-
-* [htmlwidgets](http://www.htmlwidgets.org/)
-* [Shiny](http://shiny.rstudio.com/)
-* [httr](https://cran.r-project.org/web/packages/httr/index.html)
 
 
 ## Datasets
@@ -132,4 +118,4 @@
 =======
 # Alzheimers_Dash
 JHU DaSH project on alzheimer's and alzheimer's related phenotypes
->>>>>>> FETCH_HEAD
+
