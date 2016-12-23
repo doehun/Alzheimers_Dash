@@ -4,7 +4,7 @@ This is a fork of the team repository of a Hackathon [JHU DaSH](https://datascie
 
 # Welcome to the JHU DaSH!
 
-## tl;dr
+## Hackathon Information
 
 * Dates: Sept 21-23
 * Location: Baltimore Marriott Waterfront
